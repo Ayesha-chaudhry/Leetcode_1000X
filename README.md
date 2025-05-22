@@ -16,6 +16,7 @@ This repository contains solutions for my LeetCode daily streak
 | [0125-valid-palindrome](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2032-largest-odd-number-in-string](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,12 @@ This repository contains solutions for my LeetCode daily streak
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

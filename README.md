@@ -37,4 +37,12 @@ This repository contains solutions for my LeetCode daily streak
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/2032-largest-odd-number-in-string) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

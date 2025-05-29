@@ -41,6 +41,7 @@ This repository contains solutions for my LeetCode daily streak
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0035-search-insert-position) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |

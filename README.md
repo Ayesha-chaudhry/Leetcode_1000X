@@ -6,6 +6,7 @@ This repository contains solutions for my LeetCode daily streak
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
@@ -40,6 +41,7 @@ This repository contains solutions for my LeetCode daily streak
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0035-search-insert-position) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search

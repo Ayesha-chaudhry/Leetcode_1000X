@@ -21,6 +21,7 @@ This repository contains solutions for my LeetCode daily streak
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -41,6 +42,7 @@ This repository contains solutions for my LeetCode daily streak
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0035-search-insert-position) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/1878-check-if-array-is-sorted-and-rotated) |

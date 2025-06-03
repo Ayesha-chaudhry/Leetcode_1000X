@@ -34,6 +34,7 @@ This repository contains solutions for my LeetCode daily streak
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0066-plus-one) |
 | [2032-largest-odd-number-in-string](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -45,6 +46,7 @@ This repository contains solutions for my LeetCode daily streak
 | [0001-two-sum](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/0066-plus-one) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayesha-chaudhry/Leetcode_1000X/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
